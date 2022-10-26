@@ -1,0 +1,15 @@
+C:\Users\cardi\Documents\Labsorcs\lab7conversions\bin\Debug\net6.0\lab7conversions.exe
+C:\Users\cardi\Documents\Labsorcs\lab7conversions\bin\Debug\net6.0\lab7conversions.deps.json
+C:\Users\cardi\Documents\Labsorcs\lab7conversions\bin\Debug\net6.0\lab7conversions.runtimeconfig.json
+C:\Users\cardi\Documents\Labsorcs\lab7conversions\bin\Debug\net6.0\lab7conversions.dll
+C:\Users\cardi\Documents\Labsorcs\lab7conversions\bin\Debug\net6.0\lab7conversions.pdb
+C:\Users\cardi\Documents\Labsorcs\lab7conversions\obj\Debug\net6.0\lab7conversions.csproj.AssemblyReference.cache
+C:\Users\cardi\Documents\Labsorcs\lab7conversions\obj\Debug\net6.0\lab7conversions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cardi\Documents\Labsorcs\lab7conversions\obj\Debug\net6.0\lab7conversions.AssemblyInfoInputs.cache
+C:\Users\cardi\Documents\Labsorcs\lab7conversions\obj\Debug\net6.0\lab7conversions.AssemblyInfo.cs
+C:\Users\cardi\Documents\Labsorcs\lab7conversions\obj\Debug\net6.0\lab7conversions.csproj.CoreCompileInputs.cache
+C:\Users\cardi\Documents\Labsorcs\lab7conversions\obj\Debug\net6.0\lab7conversions.dll
+C:\Users\cardi\Documents\Labsorcs\lab7conversions\obj\Debug\net6.0\refint\lab7conversions.dll
+C:\Users\cardi\Documents\Labsorcs\lab7conversions\obj\Debug\net6.0\lab7conversions.pdb
+C:\Users\cardi\Documents\Labsorcs\lab7conversions\obj\Debug\net6.0\lab7conversions.genruntimeconfig.cache
+C:\Users\cardi\Documents\Labsorcs\lab7conversions\obj\Debug\net6.0\ref\lab7conversions.dll
